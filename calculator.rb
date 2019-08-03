@@ -1,1 +1,3 @@
-# Add your variables here
+First_number=n
+second_number
+
